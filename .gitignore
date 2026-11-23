@@ -1,0 +1,13 @@
+
+venv/
+__pycache__/
+*.pyc
+.env
+.vscode/
+.idea/
+runs/
+snapshots/
+screen_recording_dataset/
+dataset/
+*.mp4
+*.avi
